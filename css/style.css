@@ -14,6 +14,10 @@
     font-weight: 700 !important;
 }
 
+.text-sonne{
+  color: #b97465;
+}
+
 .back-to-top {
     position: fixed;
     display: none;
